@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { MdInsertDriveFile } from 'react-icons/md';
-import logo from '../../assets/logo2.svg';
+import logo from '../../assets/logo.svg';
 import api from '../../services/api';
 import './styles.css';
 import { distanceInWords } from 'date-fns'
